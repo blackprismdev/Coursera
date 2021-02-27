@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    font-family: "Lucida Console", "Courier New", monospace;
  }
 
  /* Mobile first layout */
@@ -18,6 +19,7 @@
 p{
      clear: both;
      padding: 10px;
+     font-weight: bold;
  }
 section div{
     margin: 0;
